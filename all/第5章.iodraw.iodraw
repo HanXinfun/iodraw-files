@@ -63,19 +63,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-13" value="图像分析模块" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="944" y="430" width="32" height="175" as="geometry" />
+          <mxGeometry x="943" y="430" width="32" height="175" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-15" value="图像坐标" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="994" y="631" width="125" height="40" as="geometry" />
+          <mxGeometry x="993" y="631" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-16" value="切换视图" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="994" y="683" width="125" height="40" as="geometry" />
+          <mxGeometry x="993" y="683" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-20" value="缩放旋转" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="994" y="736" width="125" height="40" as="geometry" />
+          <mxGeometry x="993" y="736" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-21" value="切换模态" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="994" y="789" width="125" height="40" as="geometry" />
+          <mxGeometry x="993" y="789" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1UJr5ynlE_fxuXQhjIeV-24" target="1UJr5ynlE_fxuXQhjIeV-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,13 +84,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-24" value="自动分割模块" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="430" width="32" height="175" as="geometry" />
+          <mxGeometry x="1274" y="430" width="32" height="175" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-25" value="单模态分割" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1146" y="642" width="125" height="40" as="geometry" />
+          <mxGeometry x="1145" y="642" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-26" value="多模态分割" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1146" y="705" width="125" height="40" as="geometry" />
+          <mxGeometry x="1145" y="705" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -106,8 +106,8 @@
         </mxCell>
         <mxCell id="1UJr5ynlE_fxuXQhjIeV-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="530" as="sourcePoint" />
-            <mxPoint x="1179" y="530" as="targetPoint" />
+            <mxPoint x="1079" y="530" as="sourcePoint" />
+            <mxPoint x="1178" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NVTgRMPR5ZbTGiphc3qj-1" value="叠加显示" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
