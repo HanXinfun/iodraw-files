@@ -110,6 +110,9 @@
             <mxPoint x="1179" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NVTgRMPR5ZbTGiphc3qj-1" value="单模态分割" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="814" y="675" width="125" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
