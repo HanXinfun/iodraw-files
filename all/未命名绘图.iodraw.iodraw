@@ -39,11 +39,6 @@
         <mxCell id="T8fZU3a_upw14mpENvCe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="T8fZU3a_upw14mpENvCe-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T8fZU3a_upw14mpENvCe-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T8fZU3a_upw14mpENvCe-6">
-          <mxGeometry x="-0.24" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="多模态数量验证" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="370" width="130" height="60" as="geometry" />
         </mxCell>
@@ -70,6 +65,13 @@
         </mxCell>
         <mxCell id="T8fZU3a_upw14mpENvCe-5" value="提示并结束程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T8fZU3a_upw14mpENvCe-8" value="验证通过" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-0.2" y="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="225" y="250" as="sourcePoint" />
+            <mxPoint x="225" y="290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
